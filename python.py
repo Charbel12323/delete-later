@@ -11,3 +11,4 @@ def sqr_root(x):
 
 sqr_root(4)
 print(sqr_root)
+print("Hello world")

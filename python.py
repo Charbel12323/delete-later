@@ -1,9 +1,13 @@
+import math
 def add_numbers(x,y):
     return x + y
 x=3
 y=4
 
-add_numbers(x,y)
-print(add_numbers)
+def sqr_root(x):
+    return math.sqrt(x)
 
-print("hello world")
+
+
+sqr_root(4)
+print(sqr_root)
